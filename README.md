@@ -2,10 +2,10 @@
 
 ### Setup
 
-run `bundle install`
-run `rails db:migrate`
-run `rails db:seed` to seed the database from the `db/sample_data.json` file
-run the project with `rails s --binding=127.0.0.1`
+- run `bundle install`
+- run `rails db:migrate`
+- run `rails db:seed` to seed the database from the `db/sample_data.json` file
+- run the project with `rails s --binding=127.0.0.1`
 
 ### Checklist
 
